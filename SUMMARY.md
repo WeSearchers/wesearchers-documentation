@@ -7,6 +7,7 @@
 * [File Naming Standards](documentation/file-naming-standards.md)
 * [Requirements](documentation/requirements.md)
 * [Quality & Processes](documentation/quality-and-processes.md)
+* [Meeting Minutes](documentation/meeting-minutes.md)
 
 ## Design & Development
 
