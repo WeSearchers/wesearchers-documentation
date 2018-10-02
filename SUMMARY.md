@@ -8,6 +8,7 @@
 * [Requirements](documentation/requirements.md)
 * [Quality & Processes](documentation/quality-and-processes.md)
 * [Meeting Minutes](documentation/meeting-minutes.md)
+* [Weekly Meetings](documentation/weekly-meetings.md)
 
 ## Design & Development
 
