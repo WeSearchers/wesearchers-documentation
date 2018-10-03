@@ -1,5 +1,5 @@
 ---
-description: This page contains all meeting minutes of WeSearchers team.
+description: This page contains all meeting minutes of the WeSearchers team.
 ---
 
 # Meeting Minutes
