@@ -1,3 +1,7 @@
+---
+description: This page contains all meeting minutes of WeSearchers team.
+---
+
 # Meeting Minutes
 
 {% file src="../.gitbook/assets/ata-de-reunia-o-1.docx" caption="ES2018\_ATA1\_WS" %}
