@@ -6,5 +6,3 @@ description: >-
 
 # Welcome!
 
-{% file src=".gitbook/assets/mq\_req\_mockups.pdf" caption="1.MQ\_REQ\_MOCKUPS" %}
-
