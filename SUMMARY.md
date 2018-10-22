@@ -18,6 +18,7 @@
 
 ## Processes
 
+* [Guia de Processos](processes/guia-de-processos.md)
 * [Unidade PM](processes/unidade-pm.md)
 * [Unidade REQ](processes/unidade-req.md)
 * [Unidade IMP](processes/unidade-imp.md)
