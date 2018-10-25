@@ -14,5 +14,7 @@ description: This page contains all meeting minutes of the WeSearchers team.
 
 {% file src="../.gitbook/assets/ata-no-5.pdf" caption="ES2018\_ATA5\_WS" %}
 
-{% file src="../.gitbook/assets/ata-no-6.pdf" caption="ES2018\_ATA6\_WS" %}
+{% file src="../.gitbook/assets/ata-no-6 \(1\).pdf" caption="ES2018\_ATA6\_WS" %}
+
+{% file src="../.gitbook/assets/ata-no-7.pdf" caption="ES2018\_ATA7\_WS" %}
 
