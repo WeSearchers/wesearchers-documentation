@@ -4,12 +4,13 @@
 
 ## Documentation
 
-* [File Naming Standards](documentation/file-naming-standards.md)
-* [Requirements](documentation/requirements.md)
-* [Quality & Processes](documentation/quality-and-processes.md)
 * [Meeting Minutes](documentation/meeting-minutes.md)
 * [Weekly Meetings](documentation/weekly-meetings.md)
-* [DOC List](documentation/doc-list.md)
+* [Requirements](documentation/requirements.md)
+* [Quality & Processes](documentation/quality-and-processes.md)
+* [File Naming Standards](documentation/file-naming-standards.md)
+* [List of Documents](documentation/doc-list.md)
+* [Test Reports](documentation/test-reports.md)
 
 ## Design & Development
 
