@@ -10,3 +10,5 @@
 
 {% file src="../.gitbook/assets/es2018\_weekly\_pres6\_ws.pdf" caption="ES2018\_WEEKLY\_PRES6\_WS" %}
 
+{% file src="../.gitbook/assets/es2018\_weekly\_pres7\_ws.pdf" caption="ES2018\_WEEKLY\_PRES7\_WS" %}
+
