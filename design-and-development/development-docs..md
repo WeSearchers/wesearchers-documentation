@@ -1,5 +1,7 @@
 # Development Docs.
 
+{% file src="../.gitbook/assets/mq\_req\_documento\_requisitos\_versao2 \(1\).pdf" caption="2.0MQ\_REQ\_DOCUMENTO\_REQUISITOS" %}
+
 {% file src="../.gitbook/assets/mq\_req\_documento\_requisitos\_versao2.pdf" caption="MQ\_REQ\_DOCUMENTO\_REQUISITOS\_VERSAO2" %}
 
 {% file src="../.gitbook/assets/mq\_req\_documento\_requisitos.pdf" caption="MQ\_REQ\_DOCUMENTO\_REQUISITOS" %}
