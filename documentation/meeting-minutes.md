@@ -14,3 +14,5 @@
 
 {% file src="../.gitbook/assets/ata-no-7.pdf" caption="ES2018\_ATA7\_WS" %}
 
+{% file src="../.gitbook/assets/ata-no8.pdf" caption="ES2018\_ATA8\_WS" %}
+
