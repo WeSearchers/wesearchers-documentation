@@ -11,6 +11,7 @@
 * [File Naming Standards](documentation/file-naming-standards.md)
 * [List of Documents](documentation/doc-list.md)
 * [Test Reports](documentation/test-reports.md)
+* [Code of Conduct](documentation/code-of-conduct.md)
 
 ## Design & Development
 
