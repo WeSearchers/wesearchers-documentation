@@ -19,11 +19,11 @@
 
 ## Processes
 
-* [Guia de Processos](processes/guia-de-processos.md)
-* [Unidade PM](processes/unidade-pm.md)
-* [Unidade REQ](processes/unidade-req.md)
-* [Unidade IMP](processes/unidade-imp.md)
-* [Unidade TST](processes/unidade-tst.md)
-* [Unidade QUA](processes/unidade-qua.md)
-* [Unidade ENV](processes/unidade-env.md)
+* [Processes Guide](processes/guia-de-processos.md)
+* [PM Unit](processes/unidade-pm.md)
+* [REQ Unit](processes/unidade-req.md)
+* [IMP Unit](processes/unidade-imp.md)
+* [TST Unit](processes/unidade-tst.md)
+* [QUA Unit](processes/unidade-qua.md)
+* [ENV Unit](processes/unidade-env.md)
 
