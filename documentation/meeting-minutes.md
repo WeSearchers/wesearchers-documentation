@@ -16,3 +16,5 @@
 
 {% file src="../.gitbook/assets/ata-no8 \(2\).pdf" caption="ES2018\_ATA8\_WS" %}
 
+{% file src="../.gitbook/assets/es2018\_ata\_9\_ws.pdf" caption="ES2018\_ATA9\_WS" %}
+
