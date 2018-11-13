@@ -2,6 +2,8 @@
 
 {% file src="../.gitbook/assets/es2018\_weekly\_pres1\_ws.pdf" caption="ES2018\_WEEKLY\_PRES1\_WS" %}
 
+ES2018\_WEEKLY\_PRES\_2\_WS   [https://drive.google.com/drive/folders/18Av7n1TUVTcAWcwIRR82dLtZMM4gc645](https://drive.google.com/drive/folders/18Av7n1TUVTcAWcwIRR82dLtZMM4gc645)
+
 {% file src="../.gitbook/assets/es2018\_weekly\_pres3\_ws.pdf" caption="ES2018\_WEEKLY\_PRES3\_WS" %}
 
 {% file src="../.gitbook/assets/es2018\_weekly\_pres4\_ws.pdf" caption="ES2018\_WEEKLY\_PRES4\_WS" %}
