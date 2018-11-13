@@ -1,4 +1,4 @@
 # List of Documents
 
-{% file src="../.gitbook/assets/lista-de-artefactos-3.pdf" %}
+{% file src="../.gitbook/assets/lista-de-artefactos \(1\).pdf" caption="Lista de Artefactos" %}
 
