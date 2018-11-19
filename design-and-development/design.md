@@ -10,5 +10,5 @@
 
 {% file src="../.gitbook/assets/1.0.mq\_req\_mockups\_anamafaldasilva.pdf" caption="1.0.MQ\_REQ\_MOCKUPS\_ANAMAFALDASILVA" %}
 
-{% file src="../.gitbook/assets/mockups.pdf" caption="Mockups \( login, create account e feed\)" %}
+{% file src="../.gitbook/assets/mockups.pdf" caption="0.5.MQ\_REQ\_MOCKUPS\_ANASOARES" %}
 
