@@ -16,5 +16,9 @@
 
 {% file src="../.gitbook/assets/1.1.mq\_qua\_valproc.pdf" %}
 
+{% file src="../.gitbook/assets/1.2.mq\_qua\_atuaartefactos.pdf" caption="1.2.MQ\_QUA\_ATUAARTEFACTOS" %}
 
+{% file src="../.gitbook/assets/1.2.mq\_qua\_templatesem \(1\).pdf" caption="1.2.MQ\_QUA\_TEMPLATESEM" %}
+
+{% file src="../.gitbook/assets/1.2.mq\_qua\_valdoc \(1\).pdf" caption="1.2.MQ\_QUA\_VALDOC" %}
 
