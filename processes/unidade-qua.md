@@ -22,3 +22,5 @@
 
 {% file src="../.gitbook/assets/1.2.mq\_qua\_valdoc \(1\).pdf" caption="1.2.MQ\_QUA\_VALDOC" %}
 
+{% file src="../.gitbook/assets/1.2.mq\_qua\_valproc.pdf" caption="1.2.MQ\_QUAL\_VALPROC" %}
+
