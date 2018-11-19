@@ -8,3 +8,5 @@
 
 {% file src="../.gitbook/assets/es20\_18\_manual\_de\_qua\_ws\_v.o.1.1.2.pdf" caption="Manual de Qualidade 1.2" %}
 
+{% file src="../.gitbook/assets/es2018\_wesearchers\_manual-de-qualidade\_v0.1.2.0.pdf" caption="Manual de Qualidade 2.0" %}
+
