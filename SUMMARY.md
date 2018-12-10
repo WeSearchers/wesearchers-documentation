@@ -5,8 +5,8 @@
 ## Documentation
 
 * [Meeting Minutes](documentation/meeting-minutes.md)
-* [Other Meetings](documentation/other-meetings.md)
 * [Weekly Meetings](documentation/weekly-meetings.md)
+* [Other Meetings](documentation/other-meetings.md)
 * [Requirements](documentation/requirements.md)
 * [Quality & Processes](documentation/quality-and-processes.md)
 * [File Naming Standards](documentation/file-naming-standards.md)
