@@ -24,3 +24,5 @@ ES2018\_WEEKLY\_PRES\_2\_WS   [https://drive.google.com/drive/folders/18Av7n1TUV
 
 {% file src="../.gitbook/assets/es2018\_ws\_weekly\_pres12 \(1\).pdf" caption="ES2018\_WS\_WEEKLY\_PRES12" %}
 
+{% file src="../.gitbook/assets/es2018\_ws\_weekly\_pres13 \(1\).pdf" caption="ES2018\_WS\_WEEKLY\_PRES13" %}
+
