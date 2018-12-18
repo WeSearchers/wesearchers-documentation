@@ -14,5 +14,5 @@
 
 {% file src="../.gitbook/assets/es2018\_ws\_manual\_de\_qua\_v0.1\_v3.0.pdf" caption="ES2018\_WS\_MANUAL\_DE\_QUA\_v0.1\_v3.0" %}
 
-
+{% file src="../.gitbook/assets/es2018\_ws\_manual\_de\_qua\_v0.2\_v4.0-+-processos.pdf" caption="ES2018\_WS\_MANUAL\_DE\_QUA\_v0.2\_v4.0 + Processos" %}
 
