@@ -12,3 +12,9 @@
 
 {% file src="../.gitbook/assets/3.0.mq\_req\_documento\_requisitos.pdf" caption="3.0.MQ\_REQ\_DOCUMENTOS\_REQUISITOS" %}
 
+{% file src="../.gitbook/assets/es2018\_ws\_mockups\_v1.0\_v4.0.zip" caption="ES2018\_WS\_MOCKUPS\_v1.0\_v4.0" %}
+
+{% file src="../.gitbook/assets/es2018\_ws\_tabela\_de\_req\_v1.0\_v4.0.pdf" caption="ES2018\_WS\_TABELA\_DE\_REQ\_v1.0\_v4.0" %}
+
+
+
