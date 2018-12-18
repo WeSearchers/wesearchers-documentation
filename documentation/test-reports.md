@@ -8,5 +8,6 @@
 
 {% file src="../.gitbook/assets/preparacao\_testes\_3sprint\_piuc.pdf" caption="ES2018\_PreparaçãoTestes\_Sprint3\_PIUC\_v0.1" %}
 
-{% file src="../.gitbook/assets/preparacao\_testes\_3sprint\_ws.pdf" caption="ES2018\_Preparação\_E\_Feedback\_Testes\_v1.0" %}
+{% file src="../.gitbook/assets/preparacao\_testes\_3sprint\_ws.pdf" caption="ES2018\_Preparação\_E\_Feedback\_Testes\_Sprint3\_v1.0" %}
 
+{% file src="../.gitbook/assets/ES2018_Preparação_E_Feedback_Testes_v1.0.pdf" caption="ES2018\_Preparação\_E\_Feedback\_Testes\_Sprint3\_v1.0" %}
