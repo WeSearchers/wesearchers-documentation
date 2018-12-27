@@ -13,6 +13,7 @@
 * [List of Documents](documentation/doc-list.md)
 * [Test Reports](documentation/test-reports.md)
 * [Code of Conduct](documentation/code-of-conduct.md)
+* [Risks Report](documentation/risks-report.md)
 * [Tutorials](documentation/tutorials.md)
 
 ## Design & Development
